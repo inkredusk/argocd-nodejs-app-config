@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
         - name: node-app
-          image: inkredusk/examplenodejsapp-dev:7
+          image: inkredusk/examplenodejsapp-dev:8
           ports:
             - containerPort: 3000
